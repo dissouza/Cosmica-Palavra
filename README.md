@@ -7,12 +7,9 @@ Olá, apresento-lhes o **_Cósmica Palavra_**! Um blog sobre escrita criativa e 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 <br>
-### Palheta de cores:
 
 ### Exibição:
 
 <img src="img_home_desktop.png" alt="Logo" width="800px"/>
 <img src="img_home_mobile.png" alt="Logo" width="500px"/>
-
-[A blog created in partnership with my excellent writer friend!]
 
