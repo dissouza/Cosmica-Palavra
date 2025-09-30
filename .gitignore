@@ -1,0 +1,30 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Configurações sensíveis
+wp-config.php
+.htaccess
+
+# Logs e backups
+*.log
+*.sql
+*.zip
+*.tar.gz
+*.bak
+
+# Cache e uploads temporários
+wp-content/cache/
+wp-content/backups/
+
+# Node / composer / dependências (se houver)
+node_modules/
+vendor/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros arquivos de IDE
+*.idea/
+*.vscode/
